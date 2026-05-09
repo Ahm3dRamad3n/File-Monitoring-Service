@@ -18,7 +18,7 @@
 
 ## 📌 Overview
 
-The **Smart File Monitoring Service** is a robust background tracking system designed to ensure data integrity and provide comprehensive security auditing. Built on the `ServiceBase` class, it runs purely as a native Windows Service. It leverages OS-level event handling to asynchronously capture file system changes (Creations, Deletions, Modifications, and Renames) across entire directory trees with millisecond precision.
+The **Smart File Monitoring Service** is a robust background tracking system designed to ensure data integrity and provide comprehensive security auditing. Built on the `ServiceBase` class, it runs purely as a native Windows Service. It leverages OS-level event handling to asynchronously capture file system changes across entire directory trees with millisecond precision.
 
 ---
 
